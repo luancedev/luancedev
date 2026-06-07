@@ -1,6 +1,6 @@
 # Hi, I'm Luis Angel Chavez 👋
 
-Frontend developer focused on building clean and functional web apps with React and TypeScript.
+Web developer focused on building clean and functional web apps with React and TypeScript.
 
 ---
 
